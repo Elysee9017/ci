@@ -30215,6 +30215,8 @@ p{
   .body-nav29{
     font-size: 14px;
     float: none;
-    width: 100%;
+    width: auto;
+       box-sizing: border-box;
+      
   }
 }
